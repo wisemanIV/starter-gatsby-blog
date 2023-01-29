@@ -2,14 +2,14 @@
   "name": "contentful-starter-gatsby-blog",
   "description": "Contentful Gatsby Starter Blog",
   "private": true,
-  "version": "^0.0.2",
+  "version": "0.0.1",
   "author": "Contentful <opensource@contentful.com>",
   "bugs": {
     "url": "https://github.com/contentful/starter-gatsby-blog/issues"
   },
   "dependencies": {
     "@contentful/rich-text-plain-text-renderer": "^15.12.1",
-    "gatsby": "4.24.1",
+    "gatsby": "^4.23.1",
     "gatsby-plugin-image": "^2.23.1",
     "gatsby-plugin-react-helmet": "^5.0.0",
     "gatsby-plugin-sharp": "^4.23.1",
