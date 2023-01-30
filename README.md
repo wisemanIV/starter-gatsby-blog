@@ -1,6 +1,6 @@
 # Contentful Gatsby Starter Blog
 
-Create a [Gatsby](http://gatsbyjs.com/) blog powered by [Contentful](https://www.contentful.com).
+Creat a [Gatsby](http://gatsbyjs.com/) blog powered by [Contentful](https://www.contentful.com).
 
 ![An article page of the starter blog](./screenshot.png "An article page of the starter blog")
 
