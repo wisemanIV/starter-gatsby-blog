@@ -216,7 +216,7 @@
           "name": "Hero Image",
           "type": "Link",
           "localized": false,
-          "required": true,
+          "required": false,
           "validations": [],
           "disabled": false,
           "omitted": false,
